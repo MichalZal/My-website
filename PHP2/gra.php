@@ -7,6 +7,7 @@
         header('Location: gra.php');
         
     }
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
